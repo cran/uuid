@@ -1,7 +1,7 @@
-2b53352dc7dc6b7747bb674b46b92c40 *DESCRIPTION
+b626860eddaad154a03dbe889f0cb714 *DESCRIPTION
 576b91ce6112d68a9ab4a1f8749be113 *LICENSE
 5bcd34e3e821f5b0e25d8013f6dd524d *NAMESPACE
-2c575a53f92c1c0a72df81b802552bc4 *NEWS
+191bbdf098a133ff3602e5d1e5e01fa8 *NEWS
 689305045be0429abaafc1d6024f0579 *R/uuid.R
 53451515e99c36a3b3e10e34e89f258e *configure
 28deaaa7e3853232bfecfd4696f380e0 *configure.ac
@@ -19,7 +19,7 @@ bb35a49ecaad3cc9ba9198648e6865c8 *src/clear.c
 d2b39a0b3d72632db235a9c6d36ef344 *src/compare.c
 e7b87a05317d2ec33c78dbc875d76d13 *src/config.h.in
 d0026e30bb2f3feb7ac1db9827dd4820 *src/copy.c
-9f5ca6806514c28a822152e7444fea87 *src/gen_uuid.c
+65eb3a11db1587df02dffe3d0f12eb5f *src/gen_uuid.c
 1e0dc4ba0c89a12c3fbc227a7d2ec494 *src/isnull.c
 4430a44c97cab7085527eb720f10f19f *src/md5.c
 7cae8b31d8f74363a7e5f56019ece580 *src/md5.h
