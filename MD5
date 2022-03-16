@@ -1,7 +1,7 @@
-b626860eddaad154a03dbe889f0cb714 *DESCRIPTION
+f74fb3cf5dc5f091d41787b678af34d0 *DESCRIPTION
 576b91ce6112d68a9ab4a1f8749be113 *LICENSE
 5bcd34e3e821f5b0e25d8013f6dd524d *NAMESPACE
-191bbdf098a133ff3602e5d1e5e01fa8 *NEWS
+5c6fca2314789eac26364b4b5b1cbd1d *NEWS
 689305045be0429abaafc1d6024f0579 *R/uuid.R
 53451515e99c36a3b3e10e34e89f258e *configure
 28deaaa7e3853232bfecfd4696f380e0 *configure.ac
@@ -26,7 +26,7 @@ d0026e30bb2f3feb7ac1db9827dd4820 *src/copy.c
 c9c7412577eb3d80dac2dd69ee1a8e09 *src/nls.h
 b671656493c2119636a4e981e9aad857 *src/pack.c
 22625fc827b3dc00de2f54c6fc253158 *src/parse.c
-5b12601729b59888168d3c14fc9a1b25 *src/rand.c
+6985b510ebec6575167d9376d6f65a20 *src/rand.c
 98841b27c591d56ba923e1857e822d5a *src/randutils.c
 ac51d6448a0a43a9bdc483833f7390c0 *src/randutils.h
 0cd6e2139b142459835ab81d3a4bd5ce *src/sha1.c
