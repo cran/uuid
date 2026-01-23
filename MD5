@@ -1,7 +1,7 @@
-0e62d6c1e2129e71b45d85d2e6f22382 *DESCRIPTION
+a28013a55813f89321dabb179ab0ee25 *DESCRIPTION
 576b91ce6112d68a9ab4a1f8749be113 *LICENSE
 dc1921b9de1f5191625950df82109a4c *NAMESPACE
-e8d1f19216324b6e007db7bbed1c9bec *NEWS
+cfb86f5aa69cda9b40a47e868eff33dd *NEWS
 56096fa85f21706c8b120e778666c1c4 *R/uuid.R
 45284af519fe5e0b551bfba2a4a24bcb *configure
 4e9190ec023f28193dac3b48ca9dd222 *configure.ac
@@ -9,12 +9,12 @@ cfb66084ea2bfc7648ab47ed1018e8a4 *inst/COPYING
 c915738d7218d998de13df8ed944d3a9 *inst/include/Ruuid.h
 6c10334648d747bfb44c755aa3fa5fee *inst/include/uuid.h
 3e8693b14c84565d289360d4407bd0f6 *man/UUID.Rd
-81cd97704581a4d1a3bd52ea3b35ea5e *man/UUIDgenerate.Rd
+2d77c8895136370bf601aa264f873805 *man/UUIDgenerate.Rd
 cfb66084ea2bfc7648ab47ed1018e8a4 *src/COPYING
 ca91f1dfb203b02dc81ca6d51b56c139 *src/Makevars.in
 b3ff1631d01db56025f62342dd6d4e69 *src/Makevars.win
-6d0e867d46afa6a799a986c199b72fd0 *src/R.c
-9f6e0a1f05f2234b20928f34a7b59803 *src/Ruuid.c
+ce91bf351110456ebefec357696588d2 *src/R.c
+99be876f1a882709a8760eb43632f526 *src/Ruuid.c
 c915738d7218d998de13df8ed944d3a9 *src/Ruuid.h
 876d9c10796b223ef05a4f644c38e9b8 *src/all-io.h
 399fd7e5c8b3cf8e7046860ca5aa421c *src/c.h
@@ -30,7 +30,7 @@ c9c7412577eb3d80dac2dd69ee1a8e09 *src/nls.h
 b671656493c2119636a4e981e9aad857 *src/pack.c
 6c794e4d3f51943914705106778c768a *src/parse.c
 a61474be69808afb391fff9d1e6194ca *src/rand.c
-3e98c0fb65ac83c30b436549790e693d *src/randutils.c
+728d11e03a61ba869c70fe3cdc4a0d47 *src/randutils.c
 ac51d6448a0a43a9bdc483833f7390c0 *src/randutils.h
 b00041f5c29be55f5ff4ea1836283995 *src/sha1.c
 26205c77c0836ef3dc5705beb656c5b3 *src/sha1.h
